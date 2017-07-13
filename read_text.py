@@ -1,3 +1,4 @@
+# read two text files, finding the repetitive words.
 
 def read_text():
     #text = open("/Users/tiagoprimo/Google Drive/Primo Backup/Softwares Desenvolvidos/UdemyStudy/udemyPyStudy/text")
