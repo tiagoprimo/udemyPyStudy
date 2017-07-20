@@ -1,7 +1,7 @@
 #instancia de filmes
 
 import media
-import fresh_tomatoes
+#import fresh_tomatoes
 
 toy_story = media.Movie("Toy Story",
                         "A Story of a boy and his toys that come to life",
@@ -19,4 +19,11 @@ avatar = media.Movie("Avatar",
 
 movies = [toy_story, avatar]
 
-fresh_tomatoes.open_movies_page(movies)
+
+
+print (media.Movie.VALID_RATINGS)
+
+print (media.Movie.__module__)
+print (media.Movie.__name__)
+
+#fresh_tomatoes.open_movies_page(movies)
